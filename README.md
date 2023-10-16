@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashankyadav03
-- 👀 I’m interested in creating and learning new tech
+- 👀 I’m interested in creating and learning new tech , Gen AI
 - 🌱 I’m currently learning System design principles
 - 💞️ I’m looking to collaborate on System design ideas
 
