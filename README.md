@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankyadav03" alt="shashankyadav03" /></a> </p>
 
-- 🔭 I’m currently working on Enhancing the Quality and Trustworthiness of AI- Generated Financial Recommendations Through Fine-Tuning and Verification Mechanisms [FinSightAI](https://github.com/shashankyadav03/FinSightAI)
+- 🔭 I’m currently working on Enhancing the Quality and Trustworthiness of AI- Generated Financial Recommendations Through Fine-Tuning, RAG and Verification Mechanisms [FinSightAI](https://github.com/shashankyadav03/FinSightAI)
 
 - 🌱 I’m currently learning to build fintunetuned version of llms that solves a specific problem. **FineTuning using LoRa**
 
 - 👯 I’m looking to collaborate on AI Resume Ranker using RAG and LLMs **AI-Resume_Ranker**
 
-- 💬 Ask me about my journey and why i am going to genAI route **Gen AI**
+- 💬 Ask me about my journey and why i am going to take  **Gen AI** route
 
 - 📫 How to reach me, message via Linkedin **https://www.linkedin.com/in/shashank-yadav-uk/**
 
